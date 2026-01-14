@@ -52,9 +52,9 @@ test:
 
 about:
   home: https://github.com/PyPSA/powerplantmatching
-  license: GPL-3.0
-  license_family: GPL
-  license_file: LICENSE
+  license: MIT
+  license_family: MIT
+  license_file: LICENSES/MIT.txt
   summary: Toolset for generating and managing Power Plant Data
   description: |
     This package provides ready-to-use power plant data for the European
